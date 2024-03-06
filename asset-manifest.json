@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vitthal-Ramtakke/accordian/static/css/main.c9b5f030.css",
+    "main.js": "/Vitthal-Ramtakke/accordian/static/js/main.e8e82d69.js",
+    "static/js/453.8585abbc.chunk.js": "/Vitthal-Ramtakke/accordian/static/js/453.8585abbc.chunk.js",
+    "index.html": "/Vitthal-Ramtakke/accordian/index.html",
+    "main.c9b5f030.css.map": "/Vitthal-Ramtakke/accordian/static/css/main.c9b5f030.css.map",
+    "main.e8e82d69.js.map": "/Vitthal-Ramtakke/accordian/static/js/main.e8e82d69.js.map",
+    "453.8585abbc.chunk.js.map": "/Vitthal-Ramtakke/accordian/static/js/453.8585abbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b5f030.css",
+    "static/js/main.e8e82d69.js"
+  ]
+}
