@@ -1,6 +1,6 @@
 {
-  "homepage": "https://vitthal-ramtakke.github.io/accordian/",
-  "name": "accordion",
+  "homepage": "https://github.com/Vitthal-Ramtakke/star-rating",
+  "name": "star-rating",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
