@@ -1,11 +1,15 @@
-import './App.css';
-import StarRating from './components/star-rating';
-
+import "./App.css";
+import ImageSlider from "./components/image-slider";
 
 function App() {
   return (
     <div className="App">
-      <StarRating noOfStars={6}/>
+      {/* <StarRating noOfStars={6}/> */}
+      <ImageSlider
+        url={"https://picsum.photos/v2/list"}
+        page={"1"}
+        limit={"10"}
+      />
     </div>
   );
 }
