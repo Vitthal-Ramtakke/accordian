@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vitthal-Ramtakke/star-rating/static/css/main.8e4a0e4c.css",
-    "main.js": "/Vitthal-Ramtakke/star-rating/static/js/main.3b275f41.js",
-    "static/js/453.6d2fc86a.chunk.js": "/Vitthal-Ramtakke/star-rating/static/js/453.6d2fc86a.chunk.js",
-    "index.html": "/Vitthal-Ramtakke/star-rating/index.html",
-    "main.8e4a0e4c.css.map": "/Vitthal-Ramtakke/star-rating/static/css/main.8e4a0e4c.css.map",
-    "main.3b275f41.js.map": "/Vitthal-Ramtakke/star-rating/static/js/main.3b275f41.js.map",
-    "453.6d2fc86a.chunk.js.map": "/Vitthal-Ramtakke/star-rating/static/js/453.6d2fc86a.chunk.js.map"
+    "main.css": "/Vitthal-Ramtakke/Image-Slider/static/css/main.50d45530.css",
+    "main.js": "/Vitthal-Ramtakke/Image-Slider/static/js/main.0a769d1b.js",
+    "static/js/453.6d2fc86a.chunk.js": "/Vitthal-Ramtakke/Image-Slider/static/js/453.6d2fc86a.chunk.js",
+    "index.html": "/Vitthal-Ramtakke/Image-Slider/index.html",
+    "main.50d45530.css.map": "/Vitthal-Ramtakke/Image-Slider/static/css/main.50d45530.css.map",
+    "main.0a769d1b.js.map": "/Vitthal-Ramtakke/Image-Slider/static/js/main.0a769d1b.js.map",
+    "453.6d2fc86a.chunk.js.map": "/Vitthal-Ramtakke/Image-Slider/static/js/453.6d2fc86a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4a0e4c.css",
-    "static/js/main.3b275f41.js"
+    "static/css/main.50d45530.css",
+    "static/js/main.0a769d1b.js"
   ]
 }
